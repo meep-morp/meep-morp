@@ -13,9 +13,6 @@
   source projects :bulb:
 
 <!-- * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)]() -->
-
-- Connect with me on LinkedIn :fireworks:
-  [Profile](https://linkedin.com/in/hannah-adrian-hartley) :sparkler:
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hannah-adrian-hartley)
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:adrian.hartley.2000@gmail.com)</br>
