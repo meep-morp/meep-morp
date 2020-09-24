@@ -24,68 +24,68 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
+<span><br><center>JavaScript</center></br></span> 
 <img height=60px src="./assets/js.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
+<span><br><center>Java</center></br></span> 
 <img height=60px src="./assets/java.jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Spring Boot</center></b></span> 
+<span><br><center>Spring Boot</center></br></span> 
 <img height=60px src="./assets/spring.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>React.js</center></b></span> 
+<span><br><center>React.js</center></br></span> 
 <img height=60px src="./assets/react.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
+<span><br><center>Git</center></br></span> 
 <img height=60px src="./assets/git.jpeg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<span><br><center>Python</center></br></span> 
 <img height=60px src="./assets/python.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Vercel</center></b></span> 
+<span><br><center>Vercel</center></br></span> 
 <img height=60px src="./assets/vercel.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Postgres SQL</center></b></span> 
+<span><br><center>Postgres SQL</center></br></span> 
 <img height=60px src="./assets/postgres.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JetBrains IDEs</center></b></span> 
+<span><br><center>JetBrains IDEs</center></br></span> 
 <img height=60px src="./assets/jetbrains.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Node.js</center></b></span> 
+<span><br><center>Node.js</center></br></span> 
 <img height=60px src="./assets/node.jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Visual Studio Code</center></b></span> 
+<span><br><center>Visual Studio Code</center></br></span> 
 <img height=60px src="./assets/vscode.jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Microsoft Office Specialist</center></b></span> 
+<span><br><center>Microsoft Office Specialist</center></br></span> 
 <img height=60px src="./assets/moffice.png"> 
 </td>
 </tr>
