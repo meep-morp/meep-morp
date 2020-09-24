@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-- I am [Adrian Hartley](www.linkedin.com/in/hannah-adrian-hartley) :blush: .
+- I am [Adrian Hartley](https://linkedin.com/in/hannah-adrian-hartley) :blush: .
   Currently I am a student at Lambda School enrolled in the Full Stack Web
   Development program
 
@@ -15,7 +15,7 @@
 <!-- * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)]() -->
 
 - Connect with me on LinkedIn :fireworks:
-  [Profile](www.linkedin.com/in/hannah-adrian-hartley) :sparkler:
+  [Profile](https://linkedin.com/in/hannah-adrian-hartley) :sparkler:
 
 ## Tech Stack :computer:
 
