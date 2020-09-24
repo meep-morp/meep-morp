@@ -34,6 +34,7 @@
 - Bootstrap
 - Styled Components
 
+<!--
 <summary>
 <style>
     * {
@@ -46,4 +47,4 @@
         text-decoration: underline;
     }
 </style>
-</summary>
+</summary> -->
