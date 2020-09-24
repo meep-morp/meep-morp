@@ -34,6 +34,7 @@
 - Bootstrap
 - Styled Components
 
+<summary>
 <style>
     * {
         text-align: center;
@@ -45,3 +46,4 @@
         text-decoration: underline;
     }
 </style>
+</summary>
