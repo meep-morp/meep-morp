@@ -93,5 +93,5 @@
 </tbody>
 </table>
 
-[![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 
