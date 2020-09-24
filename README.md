@@ -93,6 +93,7 @@
 
 </tbody>
 </table>
-</center>
 
 [![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
