@@ -20,8 +20,7 @@
 ## Tech Stack :computer:
 
 <br>
-<center>
-<table>
+<table align="center">
 <tbody>
  <tr>
 <td align="center" width="20%">
@@ -95,5 +94,4 @@
 </table>
 
 [![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp)](https://github.com/anuraghazra/github-readme-stats)
-[!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}--]
-</center>
+
