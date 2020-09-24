@@ -1,4 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hannah-adrian-hartley)
+[![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:adrian.hartley.2000@gmail.com)</br>
 
 - I am [Adrian Hartley](https://linkedin.com/in/hannah-adrian-hartley) :blush: .
   Currently I am a student at Lambda School enrolled in the Full Stack Web
