@@ -14,8 +14,8 @@
 
 <!-- * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)]() -->
 
-- Connect with me on LinkeDin :fireworks:
-  [LinkedIn Profile](www.linkedin.com/in/hannah-adrian-hartley) :sparkler:
+- Connect with me on LinkedIn :fireworks:
+  [Profile](www.linkedin.com/in/hannah-adrian-hartley) :sparkler:
 
 ## Tech Stack :computer:
 
@@ -24,69 +24,69 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>JavaScript</center></b></span> 
+<img height=60px src="./assets/js.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>Java</center></b></span> 
+<img height=60px src="./assets/java.jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center>Spring Boot</center></b></span> 
+<img height=60px src="./assets/spring.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>React.js</center></b></span> 
+<img height=60px src="./assets/react.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<img height=60px src="./assets/git.jpeg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=60px src="./assets/python.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<span><b><center>Vercel</center></b></span> 
+<img height=60px src="./assets/vercel.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<span><b><center>Postgres SQL</center></b></span> 
+<img height=60px src="./assets/postgres.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<span><b><center>JetBrains IDEs</center></b></span> 
+<img height=60px src="./assets/jetbrains.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Node.js</center></b></span> 
+<img height=60px src="./assets/node.jpg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Visual Studio Code</center></b></span> 
+<img height=60px src="./assets/vscode.jpg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Microsoft Office Specialist</center></b></span> 
+<img height=60px src="./assets/moffice.png"> 
 </td>
 </tr>
 
