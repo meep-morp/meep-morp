@@ -1,50 +1,96 @@
-# Hannah Adrian Hartley
+<h1 align="center"> Hello There 👋 </h1>
 
-## meep-morp
+- I am [Adrian Hartley](www.linkedin.com/in/hannah-adrian-hartley) :blush: .
+  Currently I am a student at Lambda School enrolled in the Full Stack Web
+  Development program
 
-<hr />
+- I have done multiple projects ranging from backends, front ends, and
+  algorythms :file_cabinet: .
 
-### About Me
+- I am currently brushing up my skills and plan to learn Vue.js and Django .
 
-<p> I am a Full Stack Web Developer with a drive to learn new skills. </p>
+- I am willing to work on free-lance projects and love to contribute to open
+  source projects :bulb:
 
-### Technologies
+<!-- * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)]() -->
 
----
+- Connect with me on LinkeDin :fireworks:
+  [LinkedIn Profile](www.linkedin.com/in/hannah-adrian-hartley) :sparkler:
 
-#### Languages and Frameworks
+## Tech Stack :computer:
 
-- JavaScript
-- Node
-- React with Redux
-- Java
-- Spring Boot
-- AJAX and REST API
-- Python
-- Django (Front and Backend)
-- Socket IO
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Ansible</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+</td>
 
----
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+</td>
 
-#### Styling
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+</td>
+</tr>
 
-- CSS
-- Less
-- SASS
-- Bootstrap
-- Styled Components
+<tr>
+<td align="center" width="20%">
+<span><b><center>Flask</center></b></span> 
+<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+</td>
 
-<!--
-<summary>
-<style>
-    * {
-        text-align: center;
-  }
-  ul, ol, li {
-      text-align: left;
-  }
-    h3, h4, h5 {
-        text-decoration: underline;
-    }
-</style>
-</summary> -->
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Jenkins</center></b></span> 
+<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Kubernetes</center></b></span> 
+<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Linux System Administration</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MongoDB</center></b></span> 
+<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Nginx</center></b></span> 
+<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+[![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp)](https://github.com/anuraghazra/github-readme-stats)
