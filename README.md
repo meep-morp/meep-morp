@@ -17,7 +17,7 @@
 - Connect with me on LinkedIn :fireworks:
   [Profile](https://linkedin.com/in/hannah-adrian-hartley) :sparkler:
 
-## Tech Stack :computer:
+<h2 align="center"> Tech Stack :computer: </h1>
 
 <br>
 <table align="center">
