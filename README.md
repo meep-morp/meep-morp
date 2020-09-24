@@ -93,5 +93,7 @@
 </tbody>
 </table>
 
+<p align="center">
 [![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
