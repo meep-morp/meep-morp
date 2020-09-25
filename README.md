@@ -5,7 +5,7 @@
   Development program
 
 - I have done multiple projects ranging from backends, front ends, and
-  algorythms :file_cabinet: .
+  algorithms :file_cabinet: .
 
 - I am currently brushing up my skills and plan to learn Vue.js and Django .
 
