@@ -19,7 +19,7 @@
 
 <details>
   <summary>
-  <h2> Tech Stack :computer: </h1>
+  Tech Stack :computer:
   </summary
 
   <br>
