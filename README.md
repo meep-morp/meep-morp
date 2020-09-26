@@ -18,7 +18,7 @@
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:adrian.hartley.2000@gmail.com)</br>
   <h2 align="center">Tech Stack </h2>
 <details>
-  <summary>
+  <summary align="center">
   :computer:
   </summary
 
