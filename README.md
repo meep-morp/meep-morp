@@ -19,7 +19,7 @@
   <h2 align="center">Tech Stack </h2>
 <details>
   <summary align="center">
-  :computer:
+  <img src="https://www.flaticon.com/svg/static/icons/svg/2491/2491616.svg" height=30 />
   </summary
 
       
