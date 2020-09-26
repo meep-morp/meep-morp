@@ -16,81 +16,86 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hannah-adrian-hartley)
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:adrian.hartley.2000@gmail.com)</br>
-<h2 align="center"> Tech Stack :computer: </h1>
 
-<br>
-<table align="center">
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><br><center>JavaScript</center></br></span> 
-<img height=60px src="./assets/js.png"> 
-</td>
+<details>
+  <summary>
+  <h2 align="center"> Tech Stack :computer: </h1>
+  </summary
 
-<td align="center" width="20%">
-<span><br><center>Java</center></br></span> 
-<img height=60px src="./assets/java.jpg"> 
-</td>
+  <br>
+  <table align="center">
+  <tbody>
+   <tr>
+  <td align="center" width="20%">
+  <span><br><center>JavaScript</center></br></span> 
+  <img height=60px src="./assets/js.png"> 
+  </td>
 
-<td align="center" width="20%">
-<span><br><center>Spring Boot</center></br></span> 
-<img height=60px src="./assets/spring.png"> 
-</td>
-</tr>
+  <td align="center" width="20%">
+  <span><br><center>Java</center></br></span> 
+  <img height=60px src="./assets/java.jpg"> 
+  </td>
 
-<tr>
-<td align="center" width="20%">
-<span><br><center>React.js</center></br></span> 
-<img height=60px src="./assets/react.png"> 
-</td>
+  <td align="center" width="20%">
+  <span><br><center>Spring Boot</center></br></span> 
+  <img height=60px src="./assets/spring.png"> 
+  </td>
+  </tr>
 
-<td align="center" width="20%">
-<span><br><center>Git</center></br></span> 
-<img height=60px src="./assets/git.jpeg"> 
-</td>
+  <tr>
+  <td align="center" width="20%">
+  <span><br><center>React.js</center></br></span> 
+  <img height=60px src="./assets/react.png"> 
+  </td>
 
-<td align="center" width="20%">
-<span><br><center>Python</center></br></span> 
-<img height=60px src="./assets/python.png"> 
-</td>
-</tr>
+  <td align="center" width="20%">
+  <span><br><center>Git</center></br></span> 
+  <img height=60px src="./assets/git.jpeg"> 
+  </td>
 
-<tr>
-<td align="center" width="20%">
-<span><br><center>Vercel</center></br></span> 
-<img height=60px src="./assets/vercel.png"> 
-</td>
+  <td align="center" width="20%">
+  <span><br><center>Python</center></br></span> 
+  <img height=60px src="./assets/python.png"> 
+  </td>
+  </tr>
 
-<td align="center" width="20%">
-<span><br><center>Postgres SQL</center></br></span> 
-<img height=60px src="./assets/postgres.png"> 
-</td>
+  <tr>
+  <td align="center" width="20%">
+  <span><br><center>Vercel</center></br></span> 
+  <img height=60px src="./assets/vercel.png"> 
+  </td>
 
-<td align="center" width="20%">
-<span><br><center>JetBrains IDEs</center></br></span> 
-<img height=60px src="./assets/jetbrains.png"> 
-</td>
-</tr>
+  <td align="center" width="20%">
+  <span><br><center>Postgres SQL</center></br></span> 
+  <img height=60px src="./assets/postgres.png"> 
+  </td>
 
-<tr>
-<td align="center" width="20%">
-<span><br><center>Node.js</center></br></span> 
-<img height=60px src="./assets/node.jpg"> 
-</td>
+  <td align="center" width="20%">
+  <span><br><center>JetBrains IDEs</center></br></span> 
+  <img height=60px src="./assets/jetbrains.png"> 
+  </td>
+  </tr>
 
-<td align="center" width="20%">
-<span><br><center>Visual Studio Code</center></br></span> 
-<img height=60px src="./assets/vscode.jpg"> 
-</td>
+  <tr>
+  <td align="center" width="20%">
+  <span><br><center>Node.js</center></br></span> 
+  <img height=60px src="./assets/node.jpg"> 
+  </td>
 
-<td align="center" width="20%">
-<span><br><center>Microsoft Office Specialist</center></br></span> 
-<img height=60px src="./assets/moffice.png"> 
-</td>
-</tr>
+  <td align="center" width="20%">
+  <span><br><center>Visual Studio Code</center></br></span> 
+  <img height=60px src="./assets/vscode.jpg"> 
+  </td>
 
-</tbody>
-</table>
+  <td align="center" width="20%">
+  <span><br><center>Microsoft Office Specialist</center></br></span> 
+  <img height=60px src="./assets/moffice.png"> 
+  </td>
+  </tr>
+
+  </tbody>
+  </table>
+</details>
 
 [![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 
