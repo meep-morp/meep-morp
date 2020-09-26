@@ -16,9 +16,8 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hannah-adrian-hartley)
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:adrian.hartley.2000@gmail.com)</br>
-
-<details>
   <h2 align="center">Tech Stack </h2>
+<details>
   <summary>
   :computer:
   </summary
