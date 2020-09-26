@@ -16,7 +16,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hannah-adrian-hartley)
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:adrian.hartley.2000@gmail.com)</br>
-  <h2 align="center">Tech Stack </h2>
+  <h2 align="center">Tech Stack :computer: </h2>
 <details>
   <summary align="center">
     Open :open_file_folder:
