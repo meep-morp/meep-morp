@@ -18,11 +18,12 @@
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:adrian.hartley.2000@gmail.com)</br>
 
 <details>
-  <h2>
-    <summary>
-    Tech Stack :computer:
-    </summary
-  </h2>
+
+  <summary>
+  ## Tech Stack :computer:
+  </summary
+
+      
   <br>
   <table align="center">
   <tbody>
