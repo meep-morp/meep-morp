@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-- I am [Adrian Hartley](https://linkedin.com/in/hannah-adrian-hartley) :blush: .
+- I am [Hannah Adrian Hartley](https://linkedin.com/in/hannah-adrian-hartley) :blush: .
   Currently I am a student at Lambda School enrolled in the Full Stack Web
   Development program
 
