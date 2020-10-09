@@ -2,7 +2,7 @@
 
 - I am [Hannah Adrian Hartley](https://linkedin.com/in/hannah-adrian-hartley) :blush: .
   Currently I am a student at Lambda School enrolled in the Full Stack Web
-  Development program
+  Development program.
 
 - I have done multiple projects ranging from backends, front ends, and
   algorithms :file_cabinet: .
@@ -10,7 +10,7 @@
 - I am currently brushing up my skills and plan to learn Vue.js and Django .
 
 - I am willing to work on free-lance projects and love to contribute to open
-  source projects :bulb:
+  source projects :bulb: .
 
 <!-- * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)]() -->
   
