@@ -7,7 +7,7 @@
 - I have done multiple projects ranging from backends, front ends, and
   algorithms :file_cabinet: .
 
-- I am currently brushing up my skills and plan to learn Vue.js and Django .
+- I am currently brushing up my skills and plan to learn Shopify and Stripe .
 
 - I am willing to work on free-lance projects and love to contribute to open
   source projects :bulb: .
