@@ -1,12 +1,10 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 - I am [Hannah Adrian Hartley](https://linkedin.com/in/hannah-adrian-hartley) :blush: .
-  Currently I am a Software Engineer working at Ezoic.
+  Currently I am a Software Engineer working at Remo Health.
 
 - I have done multiple projects ranging from backends, front ends, and
-  algorithms :file_cabinet: .
-
-- I am currently brushing up my skills and plan to learn Shopify and Stripe .
+  algorithms :file_cabinet: 
 
 - I am willing to work on free-lance projects and love to contribute to open
   source projects :bulb: .
