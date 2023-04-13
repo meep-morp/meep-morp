@@ -6,7 +6,7 @@
 - I have done multiple projects ranging from backends, front ends, and
   algorithms :file_cabinet: 
 
-- I am willing to work on free-lance projects and love to contribute to open
+- I am willing to work on freelance projects and love to contribute to open
   source projects :bulb: .
 
 <!-- * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)]() -->
