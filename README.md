@@ -99,5 +99,5 @@
 <h4 align="center">Trophy Case</h4>
 
 <div align='center'>
-	<img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark&rank=S,SSS,AAA,A"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark&rank=S,SSS,AAA,A" with="200px"/>
 </div>
