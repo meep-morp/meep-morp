@@ -95,7 +95,7 @@
   </table>
 </details>
 
-## Stats :chart_with_upwards_trend:
+<h2 align="center">Stats :chart_with_upwards_trend:</h2>
 <h4 align="center">Trophy Case</h4>
 <div align='center' style="display:'flex'; flex-direction:'column'; gap:'12px';">
   <img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark" />
