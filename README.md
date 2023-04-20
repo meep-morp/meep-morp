@@ -82,7 +82,7 @@
 
   <td align="center" width="20%">
   <span><br><center>Visual Studio Code</center></br></span> 
-  <img height=60px src="./assets/vscode.jpg"> 
+  <img height='60px' src="./assets/vscode.jpg"> 
   </td>
 
   <td align="center" width="20%">
@@ -98,6 +98,6 @@
 <h2 align="center">Stats :chart_with_upwards_trend:</h2>
 <h4 align="center">Trophy Case</h4>
 
-<div align='center'>
-	<img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark&rank=S,SSS,AAA,A" with="200px"/>
+<div align='center' with='80px'>
+	<img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark />
 </div>
