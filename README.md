@@ -95,7 +95,7 @@
   </table>
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align='center'> [![trophy](https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </div>
 
 ## Stats :chart_with_upwards_trend:
 [![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
