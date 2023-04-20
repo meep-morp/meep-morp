@@ -96,8 +96,9 @@
 </details>
 
 ## Stats :chart_with_upwards_trend:
-### Trophy Case
-<div align='center'> <img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark" /> </div>
-[![meep-morp's github stats](https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media3.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif?cid=ecf05e4743f2a39k2vybb1dsf4uml6qs9bsk7r68083auxhn&rid=giphy.gif" height=200/>
-
+<h4>Trohpy Case</h4>
+<div align='center' style="display:'flex'; flex-direction:'column'; gap:'12px';">
+  <img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=100" />
+  <img src="https://media3.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif?cid=ecf05e4743f2a39k2vybb1dsf4uml6qs9bsk7r68083auxhn&rid=giphy.gif" height=200/>
+</div>
