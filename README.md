@@ -97,8 +97,23 @@
 
 <h2 align="center">Stats :chart_with_upwards_trend:</h2>
 <h4 align="center">Trophy Case</h4>
-<div align='center' style="display:'flex'; flex-direction:'column'; gap:'12px';">
-  <img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=100" />
-  <img src="https://media3.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif?cid=ecf05e4743f2a39k2vybb1dsf4uml6qs9bsk7r68083auxhn&rid=giphy.gif" height=200/>
-</div>
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 16px;
+				}
+			</style>
+			<div class="container">
+          <img src="https://github-profile-trophy.vercel.app/?username=meep-morp&theme=onedark" />
+          <img src="https://github-readme-stats.vercel.app/api?username=meep-morp&theme=synthwave&card_width=200" />
+          <img src="https://media3.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif?cid=ecf05e4743f2a39k2vybb1dsf4uml6qs9bsk7r68083auxhn&rid=giphy.gif" height=200/>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
