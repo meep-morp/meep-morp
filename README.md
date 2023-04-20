@@ -41,5 +41,4 @@
  <div align="center">
    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card" />
  </div>
-	
-	pssst go check out <a href="https://github.com/luciannt">luciannt</a>
+pssst go check out <a href="https://github.com/luciannt">luciannt ❤️</a>
