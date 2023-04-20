@@ -15,87 +15,22 @@
   
   <h2 align="center">Tech Stack <img height="20" width="20" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" /></h2>
 
-<details>
-  <summary align="center">
-    Open :open_file_folder:
-  </summary
-
-      
-  <br>
-  <table align="center">
-  <tbody>
-   <tr>
-  <td align="center" width="20%">
-  <span><br><center>JavaScript</center></br></span> 
-  <img height=60px src="./assets/js.png"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>Java</center></br></span> 
-  <img height=60px src="./assets/java.jpg"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>Spring Boot</center></br></span> 
-  <img height=60px src="./assets/spring.png"> 
-  </td>
-  </tr>
-
-  <tr>
-  <td align="center" width="20%">
-  <span><br><center>React.js</center></br></span> 
-  <img height=60px src="./assets/react.png"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>Git</center></br></span> 
-  <img height=60px src="./assets/git.jpeg"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>Python</center></br></span> 
-  <img height=60px src="./assets/python.png"> 
-  </td>
-  </tr>
-
-  <tr>
-  <td align="center" width="20%">
-  <span><br><center>Vercel</center></br></span> 
-  <img height=60px src="./assets/vercel.png"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>Postgres SQL</center></br></span> 
-  <img height=60px src="./assets/postgres.png"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>JetBrains IDEs</center></br></span> 
-  <img height=60px src="./assets/jetbrains.png"> 
-  </td>
-  </tr>
-
-  <tr>
-  <td align="center" width="20%">
-  <span><br><center>Node.js</center></br></span> 
-  <img height=60px src="./assets/node.jpg"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>Visual Studio Code</center></br></span> 
-  <img height='60px' src="./assets/vscode.jpg"> 
-  </td>
-
-  <td align="center" width="20%">
-  <span><br><center>Microsoft Office Specialist</center></br></span> 
-  <img height=60px src="./assets/moffice.png"> 
-  </td>
-  </tr>
-
-  </tbody>
-  </table>
-</details>
-
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+	<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
+	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+<br>
+	
 <h2 align="center">Trophy Case 🏆</h4>
 
 <div align='center' with='80px'>
