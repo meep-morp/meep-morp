@@ -11,8 +11,15 @@
 	<a target="_blank" href="https://linkedin.com/in/hannah-adrian-hartley"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a target="_blank" href="mailto:adrian.hartley.2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<a target="_blank" href="https://ahartley.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
-	<p><h5>now playing on spotify:</h5><img src="https://spotify-github-profile.vercel.app/api/view?uid=gracieaerogirl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></p>
 <div>
+
+<div align="center">
+	<h5>Need more info? Check out my <a href="https://drive.google.com/file/d/1C41hPUEUdOA-WgDQZnKCm0fQmHkDzxr_/view?usp=sharing">resume</a>.</h5>
+</div>
+	
+<p><h5>now playing on spotify:</h5><img src="https://spotify-github-profile.vercel.app/api/view?uid=gracieaerogirl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></p>
+	
+
   
   <h2 align="center">Tech Stack <img height="20" width="20" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" /></h2>
 
