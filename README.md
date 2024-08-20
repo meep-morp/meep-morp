@@ -17,11 +17,11 @@
 	<h5>Need more info? Check out my <a href="https://drive.google.com/file/d/1C41hPUEUdOA-WgDQZnKCm0fQmHkDzxr_/view?usp=sharing">resume</a>.</h5>
 </div>
 	
-<p><h5>now playing on spotify:</h5><img src="https://spotify-github-profile.vercel.app/api/view?uid=gracieaerogirl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></p>
+<!-- <p><h5>now playing on spotify:</h5><img src="https://spotify-github-profile.vercel.app/api/view?uid=gracieaerogirl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></p> -->
 	
 
   
-  <h2 align="center">Tech Stack <img height="20" width="20" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" /></h2>
+  <h2 align="center">Tech Stack <img height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-256/free-vscode-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-brand-pack-logos-icons-3365471.png" /></h2>
 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
