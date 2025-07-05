@@ -1,11 +1,18 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=635&color=F7F7F7&center=true&vCenter=true&lines=Hello+fellow+<Developers/>;Welcome+To+My+Github" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=00C342&width=650&height=150&lines=Adrian+Hartley;Meep-Morp)](https://git.io/typing-svg) 
+
+<img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="860" />
+<br>
+<br>
+<br>
+
 
 <div align='center'>
 	<p>What's up! My name is <a href="https://linkedin.com/in/hannah-adrian-hartley">Adrian Hartley</a>, and I'm a software engineer currently working at <a href="https://remo.health">Remo Health.</p>
 	<p>I love learning new things and trying to make the world a better place, one line of code at a time 💻</p>
 	<p>Feel free to connect with me on LinkedIn, or reach out to me via email:</p>
 </div>
+
+<hr style={{marginTop: '120px'}} />
 
 <div align="center">
 	<a target="_blank" href="https://linkedin.com/in/hannah-adrian-hartley"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,10 +24,7 @@
 	<h5>Need more info? Check out my <a href="https://drive.google.com/file/d/1C41hPUEUdOA-WgDQZnKCm0fQmHkDzxr_/view?usp=sharing">resume</a>.</h5>
 </div>
 	
-<!-- <p><h5>now playing on spotify:</h5><img src="https://spotify-github-profile.vercel.app/api/view?uid=gracieaerogirl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></p> -->
-	
 
-  
   <h2 align="center">Tech Stack <img height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-256/free-vscode-logo-icon-download-in-svg-png-gif-file-formats--social-media-technology-brand-pack-logos-icons-3365471.png" /></h2>
 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
